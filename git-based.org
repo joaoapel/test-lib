@@ -1,0 +1,23 @@
+* Iniciando Git
+
+#+begin_src shell
+
+git init &
+git add . &
+git commit -m "And so, it begins." &
+hub create &
+
+git push -u origin HEAD
+
+#+end_src
+
+#+RESULTS:
+
+
+#+begin_src shell
+
+        git status
+
+#+end_src
+
+#+RESULTS:
