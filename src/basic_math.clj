@@ -6,5 +6,5 @@
 (defn sum [a b]
   (+ a b))
 
-(def minus [a b]
+(defn minus [a b]
   (- a b))
